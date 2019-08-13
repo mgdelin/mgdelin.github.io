@@ -1,11 +1,11 @@
 # Site settings
 author: Mercedes Delin
-title: 
+title: The Short Stack 
 header-img: img/home-bg.png
 email: mercedesgdelin@gmail.com
 copyright_name: Mercedes Delin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A sweet blog by a fully stacked Jr web developer in training
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mgdelin
